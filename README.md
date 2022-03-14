@@ -188,6 +188,4 @@ so I am sharing weights and biases report to show its performance
 - Although the problem in hand was very generic,but it was challenging in many ways, the limited computational power, data distribution 
 and time constraints was what made it interesting. 
 - Having to run 1 epoch for 1-2 hr tested my patience
-- Thanks for coming to my TED Talk.
-![image](https://user-images.githubusercontent.com/47039231/136318912-75e92970-65c5-4deb-a09f-ed5a87b10057.png)
 
